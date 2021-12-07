@@ -1,0 +1,15 @@
+#product-container{
+    width: 300px;
+    height: 400px;
+    margin: 20px;
+    background-color: greenyellow;
+
+}
+#image-container{
+    padding-bottom: 20px;
+    border: white;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}
