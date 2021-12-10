@@ -3,7 +3,7 @@ import './Home.css';
 export default function Header() {
     return (
         <header id="Header" className="d-flex align-items-center row col-md-12">
-                <h1 className="col-md-3">UwU</h1>
+                <h1 className="col-md-3">Example</h1>
                 <div className="d-flex col-md-6 ">
                     <input type="search" placeholder="Buscar producto" id="search-one" className=""></input>
                     <button type="button" onClick="" className="" id="search-button">
