@@ -1,8 +1,10 @@
 import React from 'react';
 import './Products.css';
 const Products = (props) =>{
+   
+    
     return(   
-       <div className="col-md-1" id="product-container">
+       <div className="col-md-1" id="product-container" ref={props.refe} >
             <div id="image-container" className="">
                     <img src={props.linkimage}alt="productimage" id="image-product" />
             </div>

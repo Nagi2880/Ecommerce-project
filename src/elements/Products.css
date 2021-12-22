@@ -1,9 +1,12 @@
 #product-container{
-    width: 400px;
-    height: 600px;
+    min-width: 400px;
+    min-height: 600px;
     margin: 30px;
     background-color: #272829;
     border-radius: 10px;
+    
+    transition: .3s ease all;
+   
 }
 #image-container{
     display: flex;
