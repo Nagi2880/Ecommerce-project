@@ -1,4 +1,4 @@
-import React, {useRef} from 'react';
+import React from 'react';
 import Products from './Products';
 import './Slidecard.css';
 const Slidecard = (props) => {
